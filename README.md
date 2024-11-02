@@ -4,5 +4,5 @@ I'm a passionate software developer and technology enthusiast currently focused 
 
 - 🌱 **Currently Learning:** Advanced AI algorithms and cloud computing.
 - 🔭 **Working On:** Exciting projects in machine learning and IoT integration.
-- 🌟 **Skills:** Python, JavaScript, HTML, CSS, and more.
+- 🌟 **Skills:** Python, HTML, CSS, and more.
 - 📫 **Contact:** Feel free to reach out to me for collaboration or just a tech chat!
